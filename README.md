@@ -21,6 +21,8 @@ Exercício do curso de JavaScript do Curso em Vídeo
 <img alt= "imagem-do-projeto" height="500"
 src= https://user-images.githubusercontent.com/103966644/175122504-b2f3f0ff-ff11-4ebe-ab84-c10f5d1f427e.png>
 
+<h2> Problemas: ⚠️ </h2>
 
+<p> Tive um problema com as imagens, por isso optei por deixa-las fora de uma pasta específica. </p>
 
 
